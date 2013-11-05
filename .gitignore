@@ -1,0 +1,4 @@
+*.swp
+nullfs
+a.out
+printf
